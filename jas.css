@@ -1,0 +1,53 @@
+body {
+            font-family: sans-serif; /* Improves readability */
+            background-color: #FFC0CB; /* pink background */
+        }
+        header {
+            background-color: #FFCOCB; /* Pink */
+            color: white;
+            padding: 1em;
+            text-align: center;
+        }
+        header img{
+          height: 450px;
+          width: 350px;
+          border-radius: 50%;
+          border: 15px groove hsla(317, 62%, 51%, 1);
+          overflow: hidden;
+          
+        }
+        h1, h2 {
+            color: #FF; /* Red headings */
+        }
+        .top{
+          background-color: #FFFFFF;
+          padding: 1em;
+          margin-bottom: 1em;
+        }
+        section {
+            padding: 1em;
+            background-color: white;
+            border-radius: 5px;
+            box-shadow: 2px 2px 5px rgba(0,0,0,0.1); /* Subtle shadow */
+            margin-bottom: 1em;
+        }
+        ul, ol {
+            list-style-type: disc; /* Use bullet points */
+            padding-left: 20px; /* Indent list items */
+        }
+        li {
+            margin-bottom: 0.5em; /* Space between list items */
+        }
+        footer{
+          background-color: #FFFFFF;
+          padding: 1em;
+          margin-bottom: 1em;
+        }
+        }
+        h3 {
+            color: pink;
+        } 
+        .bottom{
+          background-color: #FFFFFF;
+          padding: 1em;
+        }
